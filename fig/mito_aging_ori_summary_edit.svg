@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 864.00 576.00"
+   version="1.1"
+   id="svg882"
+   sodipodi:docname="mito_aging_ori_summary_edit.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\Users\kisud\Documents\GitHub\GTEx_Mitochondria\fig\mito_aging_ori_summary_edit.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata886">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview884"
+     showgrid="false"
+     inkscape:zoom="1.3148148"
+     inkscape:cx="333.07902"
+     inkscape:cy="321.84998"
+     inkscape:window-x="-8"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg882" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+  </defs>
+  <defs
+     id="defs13">
+    <clipPath
+       id="cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1">
+      <rect
+         x="38.57"
+         y="5.48"
+         width="732.74"
+         height="370.86"
+         id="rect10" />
+    </clipPath>
+  </defs>
+  <rect
+     x="38.57"
+     y="5.48"
+     width="732.74"
+     height="370.86"
+     style="stroke-width: 1.07; stroke: none; fill: #FFFFFF;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect15" />
+  <polyline
+     points="38.57,317.96 771.31,317.96 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline17" />
+  <polyline
+     points="38.57,234.92 771.31,234.92 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline19" />
+  <polyline
+     points="38.57,151.88 771.31,151.88 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline21" />
+  <polyline
+     points="38.57,68.84 771.31,68.84 "
+     style="stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline23" />
+  <polyline
+     points="38.57,359.48 771.31,359.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline25" />
+  <polyline
+     points="38.57,276.44 771.31,276.44 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline27" />
+  <polyline
+     points="38.57,193.40 771.31,193.40 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline29" />
+  <polyline
+     points="38.57,110.36 771.31,110.36 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline31" />
+  <polyline
+     points="38.57,27.32 771.31,27.32 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline33" />
+  <polyline
+     points="49.79,376.34 49.79,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline35" />
+  <polyline
+     points="68.48,376.34 68.48,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline37" />
+  <polyline
+     points="87.17,376.34 87.17,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline39" />
+  <polyline
+     points="105.87,376.34 105.87,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline41" />
+  <polyline
+     points="124.56,376.34 124.56,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline43" />
+  <polyline
+     points="143.25,376.34 143.25,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline45" />
+  <polyline
+     points="161.94,376.34 161.94,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline47" />
+  <polyline
+     points="180.63,376.34 180.63,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline49" />
+  <polyline
+     points="199.33,376.34 199.33,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline51" />
+  <polyline
+     points="218.02,376.34 218.02,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline53" />
+  <polyline
+     points="236.71,376.34 236.71,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline55" />
+  <polyline
+     points="255.40,376.34 255.40,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline57" />
+  <polyline
+     points="274.10,376.34 274.10,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline59" />
+  <polyline
+     points="292.79,376.34 292.79,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline61" />
+  <polyline
+     points="311.48,376.34 311.48,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline63" />
+  <polyline
+     points="330.17,376.34 330.17,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline65" />
+  <polyline
+     points="348.86,376.34 348.86,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline67" />
+  <polyline
+     points="367.56,376.34 367.56,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline69" />
+  <polyline
+     points="386.25,376.34 386.25,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline71" />
+  <polyline
+     points="404.94,376.34 404.94,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline73" />
+  <polyline
+     points="423.63,376.34 423.63,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline75" />
+  <polyline
+     points="442.33,376.34 442.33,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline77" />
+  <polyline
+     points="461.02,376.34 461.02,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline79" />
+  <polyline
+     points="479.71,376.34 479.71,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline81" />
+  <polyline
+     points="498.40,376.34 498.40,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline83" />
+  <polyline
+     points="517.09,376.34 517.09,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline85" />
+  <polyline
+     points="535.79,376.34 535.79,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline87" />
+  <polyline
+     points="554.48,376.34 554.48,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline89" />
+  <polyline
+     points="573.17,376.34 573.17,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline91" />
+  <polyline
+     points="591.86,376.34 591.86,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline93" />
+  <polyline
+     points="610.56,376.34 610.56,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline95" />
+  <polyline
+     points="629.25,376.34 629.25,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline97" />
+  <polyline
+     points="647.94,376.34 647.94,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline99" />
+  <polyline
+     points="666.63,376.34 666.63,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline101" />
+  <polyline
+     points="685.32,376.34 685.32,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline103" />
+  <polyline
+     points="704.02,376.34 704.02,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline105" />
+  <polyline
+     points="722.71,376.34 722.71,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline107" />
+  <polyline
+     points="741.40,376.34 741.40,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline109" />
+  <polyline
+     points="760.09,376.34 760.09,5.48 "
+     style="stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="polyline111" />
+  <rect
+     x="41.38"
+     y="283.91"
+     width="16.82"
+     height="75.57"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect113" />
+  <rect
+     x="41.38"
+     y="22.34"
+     width="16.82"
+     height="261.58"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect115" />
+  <rect
+     x="60.07"
+     y="281.84"
+     width="16.82"
+     height="77.64"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect117" />
+  <rect
+     x="60.07"
+     y="40.61"
+     width="16.82"
+     height="241.23"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect119" />
+  <rect
+     x="78.76"
+     y="296.37"
+     width="16.82"
+     height="63.11"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect121" />
+  <rect
+     x="78.76"
+     y="58.87"
+     width="16.82"
+     height="237.49"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect123" />
+  <rect
+     x="97.45"
+     y="322.11"
+     width="16.82"
+     height="37.37"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect125" />
+  <rect
+     x="97.45"
+     y="102.06"
+     width="16.82"
+     height="220.06"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect127" />
+  <rect
+     x="116.15"
+     y="293.05"
+     width="16.82"
+     height="66.43"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect129" />
+  <rect
+     x="116.15"
+     y="133.20"
+     width="16.82"
+     height="159.85"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect131" />
+  <rect
+     x="134.84"
+     y="310.49"
+     width="16.82"
+     height="48.99"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect133" />
+  <rect
+     x="134.84"
+     y="148.14"
+     width="16.82"
+     height="162.34"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect135" />
+  <rect
+     x="153.53"
+     y="272.29"
+     width="16.82"
+     height="87.19"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect137" />
+  <rect
+     x="153.53"
+     y="151.88"
+     width="16.82"
+     height="120.41"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect139" />
+  <rect
+     x="172.22"
+     y="301.77"
+     width="16.82"
+     height="57.71"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect141" />
+  <rect
+     x="172.22"
+     y="217.48"
+     width="16.82"
+     height="84.29"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect143" />
+  <rect
+     x="190.91"
+     y="329.59"
+     width="16.82"
+     height="29.89"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect145" />
+  <rect
+     x="190.91"
+     y="241.56"
+     width="16.82"
+     height="88.02"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect147" />
+  <rect
+     x="209.61"
+     y="310.07"
+     width="16.82"
+     height="49.41"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect149" />
+  <rect
+     x="209.61"
+     y="249.45"
+     width="16.82"
+     height="60.62"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect151" />
+  <rect
+     x="228.30"
+     y="335.40"
+     width="16.82"
+     height="24.08"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect153" />
+  <rect
+     x="228.30"
+     y="249.87"
+     width="16.82"
+     height="85.53"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect155" />
+  <rect
+     x="246.99"
+     y="330.42"
+     width="16.82"
+     height="29.06"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect157" />
+  <rect
+     x="246.99"
+     y="263.15"
+     width="16.82"
+     height="67.26"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect159" />
+  <rect
+     x="265.68"
+     y="328.75"
+     width="16.82"
+     height="30.72"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect161" />
+  <rect
+     x="265.68"
+     y="285.99"
+     width="16.82"
+     height="42.77"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect163" />
+  <rect
+     x="284.38"
+     y="338.72"
+     width="16.82"
+     height="20.76"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect165" />
+  <rect
+     x="284.38"
+     y="289.31"
+     width="16.82"
+     height="49.41"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect167" />
+  <rect
+     x="303.07"
+     y="344.53"
+     width="16.82"
+     height="14.95"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect169" />
+  <rect
+     x="303.07"
+     y="310.49"
+     width="16.82"
+     height="34.05"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect171" />
+  <rect
+     x="321.76"
+     y="348.27"
+     width="16.82"
+     height="11.21"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect173" />
+  <rect
+     x="321.76"
+     y="311.32"
+     width="16.82"
+     height="36.95"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect175" />
+  <rect
+     x="340.45"
+     y="327.09"
+     width="16.82"
+     height="32.39"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect177" />
+  <rect
+     x="340.45"
+     y="314.22"
+     width="16.82"
+     height="12.87"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect179" />
+  <rect
+     x="359.14"
+     y="351.59"
+     width="16.82"
+     height="7.89"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect181" />
+  <rect
+     x="359.14"
+     y="314.64"
+     width="16.82"
+     height="36.95"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect183" />
+  <rect
+     x="377.84"
+     y="345.78"
+     width="16.82"
+     height="13.70"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect185" />
+  <rect
+     x="377.84"
+     y="317.54"
+     width="16.82"
+     height="28.23"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect187" />
+  <rect
+     x="396.53"
+     y="347.44"
+     width="16.82"
+     height="12.04"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect189" />
+  <rect
+     x="396.53"
+     y="327.51"
+     width="16.82"
+     height="19.93"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect191" />
+  <rect
+     x="415.22"
+     y="354.91"
+     width="16.82"
+     height="4.57"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect193" />
+  <rect
+     x="415.22"
+     y="332.08"
+     width="16.82"
+     height="22.84"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect195" />
+  <rect
+     x="433.91"
+     y="354.08"
+     width="16.82"
+     height="5.40"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect197" />
+  <rect
+     x="433.91"
+     y="332.91"
+     width="16.82"
+     height="21.18"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect199" />
+  <rect
+     x="452.61"
+     y="350.76"
+     width="16.82"
+     height="8.72"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect201" />
+  <rect
+     x="452.61"
+     y="335.40"
+     width="16.82"
+     height="15.36"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect203" />
+  <rect
+     x="471.30"
+     y="352.01"
+     width="16.82"
+     height="7.47"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect205" />
+  <rect
+     x="471.30"
+     y="339.13"
+     width="16.82"
+     height="12.87"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect207" />
+  <rect
+     x="489.99"
+     y="355.33"
+     width="16.82"
+     height="4.15"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect209" />
+  <rect
+     x="489.99"
+     y="346.19"
+     width="16.82"
+     height="9.13"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect211" />
+  <rect
+     x="508.68"
+     y="355.74"
+     width="16.82"
+     height="3.74"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect213" />
+  <rect
+     x="508.68"
+     y="346.61"
+     width="16.82"
+     height="9.13"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect215" />
+  <rect
+     x="527.37"
+     y="354.91"
+     width="16.82"
+     height="4.57"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect217" />
+  <rect
+     x="527.37"
+     y="350.76"
+     width="16.82"
+     height="4.15"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect219" />
+  <rect
+     x="546.07"
+     y="358.23"
+     width="16.82"
+     height="1.25"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect221" />
+  <rect
+     x="546.07"
+     y="353.25"
+     width="16.82"
+     height="4.98"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect223" />
+  <rect
+     x="564.76"
+     y="358.23"
+     width="16.82"
+     height="1.25"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect225" />
+  <rect
+     x="564.76"
+     y="353.25"
+     width="16.82"
+     height="4.98"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect227" />
+  <rect
+     x="583.45"
+     y="358.23"
+     width="16.82"
+     height="1.25"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect229" />
+  <rect
+     x="583.45"
+     y="353.67"
+     width="16.82"
+     height="4.57"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect231" />
+  <rect
+     x="602.14"
+     y="357.82"
+     width="16.82"
+     height="1.66"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect233" />
+  <rect
+     x="602.14"
+     y="355.74"
+     width="16.82"
+     height="2.08"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect235" />
+  <rect
+     x="620.84"
+     y="357.82"
+     width="16.82"
+     height="1.66"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect237" />
+  <rect
+     x="620.84"
+     y="356.16"
+     width="16.82"
+     height="1.66"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect239" />
+  <rect
+     x="639.53"
+     y="358.65"
+     width="16.82"
+     height="0.83"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect241" />
+  <rect
+     x="639.53"
+     y="357.82"
+     width="16.82"
+     height="0.83"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect243" />
+  <rect
+     x="658.22"
+     y="358.65"
+     width="16.82"
+     height="0.83"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect245" />
+  <rect
+     x="658.22"
+     y="358.23"
+     width="16.82"
+     height="0.42"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect247" />
+  <rect
+     x="676.91"
+     y="359.48"
+     width="16.82"
+     height="0.00"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect249" />
+  <rect
+     x="676.91"
+     y="358.65"
+     width="16.82"
+     height="0.83"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect251" />
+  <rect
+     x="695.61"
+     y="359.06"
+     width="16.82"
+     height="0.42"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect253" />
+  <rect
+     x="695.61"
+     y="359.06"
+     width="16.82"
+     height="0.00"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect255" />
+  <rect
+     x="714.30"
+     y="359.06"
+     width="16.82"
+     height="0.42"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect257" />
+  <rect
+     x="714.30"
+     y="359.06"
+     width="16.82"
+     height="0.00"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect259" />
+  <rect
+     x="732.99"
+     y="359.06"
+     width="16.82"
+     height="0.42"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect261" />
+  <rect
+     x="732.99"
+     y="359.06"
+     width="16.82"
+     height="0.00"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect263" />
+  <rect
+     x="751.68"
+     y="359.06"
+     width="16.82"
+     height="0.42"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #FF7256;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect265" />
+  <rect
+     x="751.68"
+     y="359.06"
+     width="16.82"
+     height="0.00"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: butt; fill: #00CDCD;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect267" />
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g271">
+    <text
+       transform="translate(48.68,290.59) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text269">182</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g275">
+    <text
+       transform="translate(48.68,29.01) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text273">630</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g279">
+    <text
+       transform="translate(67.37,288.51) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text277">187</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g283">
+    <text
+       transform="translate(67.37,47.28) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text281">581</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g287">
+    <text
+       transform="translate(86.06,303.05) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text285">152</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g291">
+    <text
+       transform="translate(86.06,65.55) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text289">572</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g295">
+    <text
+       transform="translate(106.05,327.49) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text293">90</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g299">
+    <text
+       transform="translate(104.76,108.73) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text297">530</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g303">
+    <text
+       transform="translate(123.45,299.72) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text301">160</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g307">
+    <text
+       transform="translate(123.45,139.87) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text305">385</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g311">
+    <text
+       transform="translate(142.14,317.16) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text309">118</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g315">
+    <text
+       transform="translate(142.14,154.82) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text313">391</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g319">
+    <text
+       transform="translate(160.83,278.96) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text317">210</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g323">
+    <text
+       transform="translate(160.83,158.56) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text321">290</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g327">
+    <text
+       transform="translate(179.52,308.44) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text325">139</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g331">
+    <text
+       transform="translate(179.52,224.16) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text329">203</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g335">
+    <text
+       transform="translate(199.51,334.96) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text333">72</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g339">
+    <text
+       transform="translate(198.22,248.24) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text337">212</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g343">
+    <text
+       transform="translate(216.91,316.75) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text341">119</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g347">
+    <text
+       transform="translate(216.91,256.13) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text345">146</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g351">
+    <text
+       transform="translate(236.90,340.78) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text349">58</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g355">
+    <text
+       transform="translate(235.60,256.54) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text353">206</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g359">
+    <text
+       transform="translate(255.59,335.80) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text357">70</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g363">
+    <text
+       transform="translate(254.29,269.83) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text361">162</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g367">
+    <text
+       transform="translate(274.28,334.13) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text365">74</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g371">
+    <text
+       transform="translate(272.99,292.67) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text369">103</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g375">
+    <text
+       transform="translate(292.98,344.10) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text373">50</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g379">
+    <text
+       transform="translate(291.68,295.99) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text377">119</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g383">
+    <text
+       transform="translate(311.67,349.91) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text381">36</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g387">
+    <text
+       transform="translate(311.67,315.87) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text385">82</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g391">
+    <text
+       transform="translate(330.36,353.65) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text389">27</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g395">
+    <text
+       transform="translate(330.36,316.70) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text393">89</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g399">
+    <text
+       transform="translate(349.05,332.47) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text397">78</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g403">
+    <text
+       transform="translate(349.05,319.60) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text401">31</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g407">
+    <text
+       transform="translate(367.75,356.97) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text405">19</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g411">
+    <text
+       transform="translate(367.75,320.02) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text409">89</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g415">
+    <text
+       transform="translate(386.44,351.16) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text413">33</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g419">
+    <text
+       transform="translate(386.44,322.92) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text417">68</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g423">
+    <text
+       transform="translate(405.13,352.82) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text421">29</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g427">
+    <text
+       transform="translate(405.13,332.89) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text425">48</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g431">
+    <text
+       transform="translate(423.82,360.29) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text429">11</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g435">
+    <text
+       transform="translate(423.82,337.46) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text433">55</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g439">
+    <text
+       transform="translate(442.51,359.46) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text437">13</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g443">
+    <text
+       transform="translate(442.51,338.29) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text441">51</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g447">
+    <text
+       transform="translate(461.21,356.14) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text445">21</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g451">
+    <text
+       transform="translate(461.21,340.78) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text449">37</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g455">
+    <text
+       transform="translate(479.90,357.39) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text453">18</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g459">
+    <text
+       transform="translate(479.90,344.51) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text457">31</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g463">
+    <text
+       transform="translate(498.59,360.71) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text461">10</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g467">
+    <text
+       transform="translate(498.59,351.57) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text465">22</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g471">
+    <text
+       transform="translate(518.58,359.82) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text469">9</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g475">
+    <text
+       transform="translate(517.28,351.99) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text473">22</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g479">
+    <text
+       transform="translate(535.98,360.29) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text477">11</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g483">
+    <text
+       transform="translate(535.98,356.14) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text481">10</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g487">
+    <text
+       transform="translate(555.97,362.32) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text485">3</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g491">
+    <text
+       transform="translate(554.67,358.63) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text489">12</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g495">
+    <text
+       transform="translate(574.66,362.32) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text493">3</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g499">
+    <text
+       transform="translate(573.36,358.63) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text497">12</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g503">
+    <text
+       transform="translate(593.35,362.32) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text501">3</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g507">
+    <text
+       transform="translate(592.05,359.05) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text505">11</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g511">
+    <text
+       transform="translate(612.04,361.90) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text509">4</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g515">
+    <text
+       transform="translate(612.04,359.82) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text513">5</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g519">
+    <text
+       transform="translate(630.73,361.90) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text517">4</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g523">
+    <text
+       transform="translate(630.73,360.24) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text521">4</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g527">
+    <text
+       transform="translate(649.43,362.73) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text525">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g531">
+    <text
+       transform="translate(649.43,361.90) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text529">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g535">
+    <text
+       transform="translate(668.12,362.73) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text533">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g539">
+    <text
+       transform="translate(668.12,362.32) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text537">1</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g543">
+    <text
+       transform="translate(686.81,363.56) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text541">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g547">
+    <text
+       transform="translate(686.81,362.73) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text545">2</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g551">
+    <text
+       transform="translate(705.50,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text549">1</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g555">
+    <text
+       transform="translate(705.50,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text553">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g559">
+    <text
+       transform="translate(724.20,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text557">1</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g563">
+    <text
+       transform="translate(724.20,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text561">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g567">
+    <text
+       transform="translate(742.89,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text565">1</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g571">
+    <text
+       transform="translate(742.89,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text569">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g575">
+    <text
+       transform="translate(761.58,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text573">1</text>
+  </g>
+  <g
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="g579">
+    <text
+       transform="translate(761.58,363.15) rotate(-45)"
+       style="font-size: 11.04px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text577">0</text>
+  </g>
+  <rect
+     x="38.57"
+     y="5.48"
+     width="732.74"
+     height="370.86"
+     style="stroke-width: 1.07; stroke: #333333;"
+     clip-path="url(#cpMzguNTczfDc3MS4zMDl8Mzc2LjMzN3w1LjQ3OTQ1)"
+     id="rect581" />
+  <defs
+     id="defs586">
+    <clipPath
+       id="cpMHw4NjR8NTc2fDA=">
+      <rect
+         x="0.00"
+         y="0.00"
+         width="864.00"
+         height="576.00"
+         id="rect583" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g590">
+    <text
+       x="28.64"
+       y="362.70"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="5.01px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text588">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g594">
+    <text
+       x="18.63"
+       y="279.66"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="15.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text592">200</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g598">
+    <text
+       x="18.63"
+       y="196.62"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="15.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text596">400</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g602">
+    <text
+       x="18.63"
+       y="113.58"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="15.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text600">600</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g606">
+    <text
+       x="18.63"
+       y="30.54"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="15.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text604">800</text>
+  </g>
+  <polyline
+     points="35.83,359.48 38.57,359.48 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline608" />
+  <polyline
+     points="35.83,276.44 38.57,276.44 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline610" />
+  <polyline
+     points="35.83,193.40 38.57,193.40 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline612" />
+  <polyline
+     points="35.83,110.36 38.57,110.36 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline614" />
+  <polyline
+     points="35.83,27.32 38.57,27.32 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline616" />
+  <polyline
+     points="49.79,379.08 49.79,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline618" />
+  <polyline
+     points="68.48,379.08 68.48,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline620" />
+  <polyline
+     points="87.17,379.08 87.17,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline622" />
+  <polyline
+     points="105.87,379.08 105.87,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline624" />
+  <polyline
+     points="124.56,379.08 124.56,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline626" />
+  <polyline
+     points="143.25,379.08 143.25,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline628" />
+  <polyline
+     points="161.94,379.08 161.94,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline630" />
+  <polyline
+     points="180.63,379.08 180.63,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline632" />
+  <polyline
+     points="199.33,379.08 199.33,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline634" />
+  <polyline
+     points="218.02,379.08 218.02,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline636" />
+  <polyline
+     points="236.71,379.08 236.71,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline638" />
+  <polyline
+     points="255.40,379.08 255.40,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline640" />
+  <polyline
+     points="274.10,379.08 274.10,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline642" />
+  <polyline
+     points="292.79,379.08 292.79,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline644" />
+  <polyline
+     points="311.48,379.08 311.48,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline646" />
+  <polyline
+     points="330.17,379.08 330.17,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline648" />
+  <polyline
+     points="348.86,379.08 348.86,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline650" />
+  <polyline
+     points="367.56,379.08 367.56,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline652" />
+  <polyline
+     points="386.25,379.08 386.25,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline654" />
+  <polyline
+     points="404.94,379.08 404.94,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline656" />
+  <polyline
+     points="423.63,379.08 423.63,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline658" />
+  <polyline
+     points="442.33,379.08 442.33,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline660" />
+  <polyline
+     points="461.02,379.08 461.02,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline662" />
+  <polyline
+     points="479.71,379.08 479.71,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline664" />
+  <polyline
+     points="498.40,379.08 498.40,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline666" />
+  <polyline
+     points="517.09,379.08 517.09,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline668" />
+  <polyline
+     points="535.79,379.08 535.79,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline670" />
+  <polyline
+     points="554.48,379.08 554.48,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline672" />
+  <polyline
+     points="573.17,379.08 573.17,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline674" />
+  <polyline
+     points="591.86,379.08 591.86,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline676" />
+  <polyline
+     points="610.56,379.08 610.56,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline678" />
+  <polyline
+     points="629.25,379.08 629.25,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline680" />
+  <polyline
+     points="647.94,379.08 647.94,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline682" />
+  <polyline
+     points="666.63,379.08 666.63,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline684" />
+  <polyline
+     points="685.32,379.08 685.32,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline686" />
+  <polyline
+     points="704.02,379.08 704.02,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline688" />
+  <polyline
+     points="722.71,379.08 722.71,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline690" />
+  <polyline
+     points="741.40,379.08 741.40,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline692" />
+  <polyline
+     points="760.09,379.08 760.09,376.34 "
+     style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="polyline694" />
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g698">
+    <text
+       transform="translate(53.01,431.78) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="50.52px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text696">Artery_Tibial</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g702">
+    <text
+       transform="translate(71.70,462.82) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="81.55px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text700">Esophagus_Mucosa</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g706">
+    <text
+       transform="translate(90.39,401.29) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="20.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text704">Lung</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g710">
+    <text
+       transform="translate(109.08,476.34) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="95.08px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text708">Adipose_Subcutaneous</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g714">
+    <text
+       transform="translate(127.78,446.80) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="65.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text712">Muscle_Skeletal</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g718">
+    <text
+       transform="translate(146.47,501.32) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="120.05px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text716">Adipose_Visceral_(Omentum)</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g722">
+    <text
+       transform="translate(165.16,434.80) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="53.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text720">Whole_Blood</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g726">
+    <text
+       transform="translate(183.85,431.79) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="50.52px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text724">Artery_Aorta</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g730">
+    <text
+       transform="translate(202.55,431.79) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="50.52px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text728">Nerve_Tibial</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g734">
+    <text
+       transform="translate(221.24,407.78) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="26.51px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text732">Uterus</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g738">
+    <text
+       transform="translate(239.93,543.39) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="162.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text736">Esophagus_Gastroesophageal_Junction</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g742">
+    <text
+       transform="translate(258.62,442.30) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="61.04px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text740">Colon_Sigmoid</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g746">
+    <text
+       transform="translate(277.31,433.79) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="52.52px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text744">Brain_Cortex</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g750">
+    <text
+       transform="translate(296.01,411.28) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="30.01px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text748">Thyroid</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g754">
+    <text
+       transform="translate(314.70,474.32) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="93.05px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text752">Esophagus_Muscularis</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g758">
+    <text
+       transform="translate(333.39,483.80) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="102.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text756">Breast_Mammary_Tissue</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g762">
+    <text
+       transform="translate(352.08,405.27) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="24.00px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text760">Ovary</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g766">
+    <text
+       transform="translate(370.78,463.31) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="82.05px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text764">Heart_Left_Ventricle</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g770">
+    <text
+       transform="translate(389.47,454.80) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="73.53px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text768">Colon_Transverse</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g774">
+    <text
+       transform="translate(408.16,502.33) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="121.06px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text772">Brain_Cerebellar_Hemisphere</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g778">
+    <text
+       transform="translate(426.85,405.27) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="24.00px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text776">Testis</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g782">
+    <text
+       transform="translate(445.54,512.35) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="131.08px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text780">Skin_Sun_Exposed_(Lower_leg)</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g786">
+    <text
+       transform="translate(464.24,535.37) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="154.10px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text784">Skin_Not_Sun_Exposed_(Suprapubic)</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g790">
+    <text
+       transform="translate(482.93,507.86) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="126.59px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text788">Brain_Caudate_(basal_ganglia)</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g794">
+    <text
+       transform="translate(501.62,464.81) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="83.54px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text792">Brain_Hypothalamus</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g798">
+    <text
+       transform="translate(520.31,414.79) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="33.52px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text796">Prostate</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g802">
+    <text
+       transform="translate(539.01,453.30) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="72.04px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text800">Brain_Cerebellum</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g806">
+    <text
+       transform="translate(557.70,441.31) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="60.04px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text804">Adrenal_Gland</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g810">
+    <text
+       transform="translate(576.39,416.78) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="35.52px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text808">Stomach</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g814">
+    <text
+       transform="translate(595.08,462.31) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="81.04px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text812">Brain_Hippocampus</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g818">
+    <text
+       transform="translate(613.77,479.84) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="98.57px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text816">Heart_Atrial_Appendage</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g822">
+    <text
+       transform="translate(632.47,409.29) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="28.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text820">Vagina</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g826">
+    <text
+       transform="translate(651.16,469.81) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="88.54px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text824">Minor_Salivary_Gland</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g830">
+    <text
+       transform="translate(669.85,447.30) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="66.04px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text828">Brain_Amygdala</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g834">
+    <text
+       transform="translate(688.54,542.36) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="161.09px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text832">Brain_Anterior_cingulate_cortex_(BA24)</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g838">
+    <text
+       transform="translate(707.24,447.29) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="66.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text836">Artery_Coronary</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g842">
+    <text
+       transform="translate(725.93,557.37) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="176.11px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text840">Brain_Nucleus_accumbens_(basal_ganglia)</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g846">
+    <text
+       transform="translate(744.62,509.85) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="128.58px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text844">Brain_Putamen_(basal_ganglia)</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g850">
+    <text
+       transform="translate(763.31,419.29) rotate(-90)"
+       style="font-size: 8.80px; fill: #4D4D4D; font-family: Arial;"
+       textLength="38.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text848">Pancreas</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g854">
+    <text
+       x="386.90"
+       y="567.99"
+       style="font-size: 11.00px; font-family: Arial;"
+       textLength="36.07px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text852">Organs</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g858">
+    <text
+       transform="translate(13.35,210.48) rotate(-90)"
+       style="font-size: 11.00px; font-family: Arial;"
+       textLength="39.14px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text856">Gene_n</text>
+  </g>
+  <rect
+     x="782.27002"
+     y="160.21001"
+     width="76.25"
+     height="61.400002"
+     style="fill:#ffffff;stroke:none;stroke-width:1.07000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="rect860"
+     transform="translate(-97.352113,-146.78873)" />
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g864"
+     transform="translate(-97.352113,-146.78873)">
+    <text
+       x="787.75"
+       y="174.83"
+       style="font-size:11px;font-family:Arial"
+       textLength="43.400002"
+       lengthAdjust="spacingAndGlyphs"
+       id="text862">Direction</text>
+  </g>
+  <rect
+     x="787.75"
+     y="181.57001"
+     width="17.280001"
+     height="17.280001"
+     style="fill:#ffffff;stroke:none;stroke-width:1.07000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="rect866"
+     transform="translate(-97.352113,-146.78873)" />
+  <rect
+     x="788.46002"
+     y="182.28"
+     width="15.86"
+     height="15.86"
+     style="fill:#00cdcd;stroke:none;stroke-width:1.07000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="rect868"
+     transform="translate(-97.352113,-146.78873)" />
+  <rect
+     x="787.75"
+     y="198.85001"
+     width="17.280001"
+     height="17.280001"
+     style="fill:#ffffff;stroke:none;stroke-width:1.07000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="rect870"
+     transform="translate(-97.352113,-146.78873)" />
+  <rect
+     x="788.46002"
+     y="199.56"
+     width="15.86"
+     height="15.86"
+     style="fill:#ff7256;stroke:none;stroke-width:1.07000005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10"
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="rect872"
+     transform="translate(-97.352113,-146.78873)" />
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g876"
+     transform="translate(-97.352113,-146.78873)">
+    <text
+       x="810.51001"
+       y="193.42999"
+       style="font-size:8.80000019px;font-family:Arial"
+       textLength="42.529999"
+       lengthAdjust="spacingAndGlyphs"
+       id="text874">Age_down</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw4NjR8NTc2fDA=)"
+     id="g880"
+     transform="translate(-97.352113,-146.78873)">
+    <text
+       x="810.51001"
+       y="210.71001"
+       style="font-size:8.80000019px;font-family:Arial"
+       textLength="31.030001"
+       lengthAdjust="spacingAndGlyphs"
+       id="text878">Age_up</text>
+  </g>
+</svg>
