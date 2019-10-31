@@ -1,0 +1,1 @@
+ssh -i "SKim-EC2.pem" ec2-user@ec2-54-89-92-92.compute-1.amazonaws.com
