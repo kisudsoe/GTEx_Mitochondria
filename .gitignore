@@ -1,3 +1,4 @@
 
 *.pem
 .ipynb_checkpoints/development-checkpoint.ipynb
+src/.ipynb_checkpoints/gtex_eqtl-checkpoint.r
